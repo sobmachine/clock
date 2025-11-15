@@ -12,14 +12,14 @@ It’s a lightweight example of using HTML, CSS, and JavaScript for a real-time 
 
 ## Live Preview
 
-- [Server Time](https://htmlpreview.github.io/?https://github.com/vbloom-x3/clock/blob/main/src/server/index.html)
-- [System Time](https://htmlpreview.github.io/?https://github.com/vbloom-x3/clock/blob/main/src/system/index.html)
+- [Server Time](https://htmlpreview.github.io/?https://github.com/sobmachine/clock/blob/main/src/server/index.html)
+- [System Time](https://htmlpreview.github.io/?https://github.com/sobmachine/clock/blob/main/src/system/index.html)
 
 ## Getting Started
 
 ### Clone the repository
 ```bash
-git clone https://github.com/vbloom-x3/clock.git
+git clone https://github.com/sobmachine/clock.git
 ```
 
 
