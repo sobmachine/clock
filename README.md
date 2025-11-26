@@ -14,12 +14,3 @@ It’s a lightweight example of using HTML, CSS, and JavaScript for a real-time 
 
 - [Server Time](https://htmlpreview.github.io/?https://github.com/sobmachine/clock/blob/main/src/server/index.html)
 - [System Time](https://htmlpreview.github.io/?https://github.com/sobmachine/clock/blob/main/src/system/index.html)
-
-## Getting Started
-
-### Clone the repository
-```bash
-git clone https://github.com/sobmachine/clock.git
-```
-
-
